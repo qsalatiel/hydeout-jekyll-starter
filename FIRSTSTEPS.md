@@ -8,7 +8,7 @@ theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
 
 ![Desktop](https://github.com/fongandrew/hydeout/blob/master/_screenshots/1.png?raw=true)
 
-### Keep Its Simple
+### Keep Its not Simple
 
 In keeping with the original Hyde theme, Hydeout aims to keep the overall
 design lightweight and plugin-free. JavaScript is currently limited only
