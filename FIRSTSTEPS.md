@@ -1,3 +1,6 @@
+---
+
+---
 # Hyde / Hydeout
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
@@ -5,7 +8,7 @@ theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
 
 ![Desktop](https://github.com/fongandrew/hydeout/blob/master/_screenshots/1.png?raw=true)
 
-### Keep It Simple
+### Keep Its Simple
 
 In keeping with the original Hyde theme, Hydeout aims to keep the overall
 design lightweight and plugin-free. JavaScript is currently limited only
@@ -33,7 +36,7 @@ The easiest option in our opinion is Netlify. It's quick to setup and relatively
 
 ![](https://forestry.io/img/theme/netlify-step-4.gif)
 
-6. Lastly copy your URL (e.g. https://something-something-123456.netlify.com/) and add it as your URL in your [`Site Configuration`](#/pages/config-toml).
+1. Lastly copy your URL (e.g. https://something-something-123456.netlify.com/) and add it as your URL in your `[Site Configuration](#/pages/config-toml)`.
 
 The more powerful option is deployment to AWS and makes sense if you have experience with S3 and Cloudformation. You can find detailed documentation and a deployment template [here](https://forestry.io/docs/hosting/s3-cloudfront-stack/).
 
@@ -49,7 +52,7 @@ See the [variables](https://github.com/fongandrew/hydeout/blob/master/_sass/hyde
 
 #### Replace Favicon
 
-You can replace the favicon (the small icon that shows up in the tab of your page in a browser) by going to the [Media Library](#/media/) and removing `favicon.png` and `favicon.ico` and replacing them with your own version. 
+You can replace the favicon (the small icon that shows up in the tab of your page in a browser) by going to the [Media Library](#/media/) and removing `favicon.png` and `favicon.ico` and replacing them with your own version.
 
 #### Reverse layout
 
@@ -77,7 +80,7 @@ Your site is completely editable in Forestry. The Hydeout theme is a simple resp
 
 Pages and Posts are separated into two different categories.
 
-To create a new page or post click on *Create New* and select *Post* (or *Page* depending what section you are in). Enter a title and click *Create* to proceed to the editor. 
+To create a new page or post click on _Create New_ and select _Post_ (or _Page_ depending what section you are in). Enter a title and click _Create_ to proceed to the editor.
 
 ![](https://forestry.io/img/theme/create-new.png)
 
@@ -87,7 +90,7 @@ On the left side you'll find general settings (e.g. title, subtitle, date etc.) 
 
 #### Add and Edit the Sidebar
 
-To add new links and edit existing ones navigate to [Pages](#/menus/main), select a page and activate `Sidebar Link`. 
+To add new links and edit existing ones navigate to [Pages](#/menus/main), select a page and activate `Sidebar Link`.
 
 You are also able to reorder links by setting the `Sidebar Sort Order` value with a position number (1 is the highest position). The position is set in relation to the other pages (e.g. 1 is above 10 is above 35).
 
@@ -111,8 +114,8 @@ All new posts/pages start out as draft. To publish a post/page you'll have to tu
 
 ![](https://forestry.io/img/theme/publish.png)
 
-*More Information on Editing with Forestry [here](https://forestry.io/docs/editing/markdown-editor/)*  
-*The full documentation for Developers using Forestry can be found [here](https://forestry.io/docs/)*
+_More Information on Editing with Forestry_ [_here_](https://forestry.io/docs/editing/markdown-editor/)  
+_The full documentation for Developers using Forestry can be found_ [_here_](https://forestry.io/docs/)
 
 ***
 
